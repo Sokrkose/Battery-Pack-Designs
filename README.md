@@ -2,6 +2,10 @@
 
 The Accumulator Container/Battery Pack has 288 batterys and a maximum voltage of 600V with 7.45kWh and consists of 12 segments of batteries (12s2p), 2 high-voltage relay contacts and a high current fast-blow fuse.
 
+Here, it is shown the full assembly of the container. Let's see more carefully each individual part.
+
+![photo](Screenshots/Screenshot_10.png)
+
 Bellow, it is shown the design of one segment.
 
 ![photo](Screenshots/Screenshot_1.png)
@@ -28,10 +32,6 @@ Here is the aluminum container of the battery pack.
 
 ![photo](Screenshots/Screenshot_8.png)
 ![photo](Screenshots/Screenshot_9.png)
-
-And here, it is shown the full assembly of the container.
-
-![photo](Screenshots/Screenshot_10.png)
 
 The two relay contactors and the fuse are placed in the front part of the container.
 
