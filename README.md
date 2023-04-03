@@ -9,6 +9,7 @@ Here, it is shown the full assembly of the container. Let's see more carefully e
 Bellow, it is shown the design of one segment.
 
 ![photo](Screenshots/Screenshot_1.png)
+![photo](Screenshots/Screenshot_20.png)
 
 Let's look at it more thoroughly.
 
@@ -23,6 +24,7 @@ Bellow, you can see the BMS PCB.
 
 ![photo](Screenshots/Screenshot_5.png)
 ![photo](Screenshots/Screenshot_6.png)
+![photo](Screenshots/Screenshot_21.png)
 
 Here, all segments are connected together.
 
