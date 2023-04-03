@@ -10,6 +10,8 @@ Bellow, it is shown the design of one segment.
 
 ![photo](Screenshots/Screenshot_1.png)
 ![photo](Screenshots/Screenshot_20.jpg)
+![photo](Screenshots/Screenshot_21.jpg)
+
 
 Let's look at it more thoroughly.
 
@@ -24,7 +26,6 @@ Bellow, you can see the BMS PCB.
 
 ![photo](Screenshots/Screenshot_5.png)
 ![photo](Screenshots/Screenshot_6.png)
-![photo](Screenshots/Screenshot_21.jpg)
 
 Here, all segments are connected together.
 
